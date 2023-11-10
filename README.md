@@ -23,23 +23,4 @@ Un accent particulier est mis sur le feature engineering pour valoriser et enric
 
 - **Résultats :** Ce répertoire contient les résultats obtenus lors de l'évaluation des modèles, y compris les métriques de performance et les graphiques pertinents.
 
-## Comment Utiliser ce Dépôt
-
-1. Cloner le dépôt localement : `git clone URL_DU_REPO`
-2. Naviguer dans le répertoire du projet : `cd nom_du_projet`
-3. Explorer les différentes sections du projet en accédant aux sous-répertoires.
-
-## Contributions
-
-Les contributions sous forme de suggestions, corrections ou extensions de fonctionnalités sont les bienvenues. Ouvrez une issue ou soumettez une pull request.
-
-## Auteurs
-
-- [Nom de l'Auteur 1]
-- [Nom de l'Auteur 2]
-
-## Licence
-
-Ce projet est sous licence [insérer la licence choisie].
-
 
